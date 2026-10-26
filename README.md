@@ -20,4 +20,4 @@ Software Engineering student at **ISEP** and a developer focused on building eff
 ### 📫 Connect with me
 
 * 💼 **LinkedIn:*
-* 📧 **Email:**
+* 📧 **Email:** 1262108@isep.ipp.pt
