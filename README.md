@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Edmilson! 👋
 
-<!--
-**edmilson00/edmilson00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at **ISEP** and a developer focused on building efficient code solutions. Constantly looking to evolve my technical skills and collaborate on innovative projects. 
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Currently pursuing my Bachelor's in **Software Engineering** at ISEP.
+* 💻 Developing academic projects and personal programming challenges.
+
+### 🌱 Learning & Growth
+
+* 🧠 Deepening my knowledge in software architecture and core algorithms.
+* 🛠️ Exploring new tools and frameworks within the modern tech ecosystem.
+
+### 🛠️ Tech Stack
+
+* **Languages & Databases:** C, Java, Python, JavaScript, and SQL databases.
+* **Tools & DevOps:** Git, GitHub, Docker, and Linux environments.
+
+### 📫 Connect with me
+
+* 💼 **LinkedIn:*
+* 📧 **Email:**
